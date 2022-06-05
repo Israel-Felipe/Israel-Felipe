@@ -36,4 +36,4 @@ Quero deixar claro aqui pra você que estou muito feliz com a decisão de tomei!
 
 Estou ansioso para concluir minha formação na Driven e já começar a trabalhar como Dev Júnior. Mas, ao mesmo tempo, não quero que esse bootcamp tenha fim, pois está incrível!
 
-### 💬 Se quiser vir falar comigo, é bem fácil de me achar no Instagram: Israel Felipe Teixeira.
+💬 Se quiser vir falar comigo, é bem fácil de me achar no Instagram: Israel Felipe Teixeira.
