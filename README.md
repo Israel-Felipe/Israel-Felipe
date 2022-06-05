@@ -2,7 +2,7 @@
 
 Eu sou Israel Felipe Teixeira 😄
 
-###🔭 Na área da tecnologia:
+### 🔭 Na área da tecnologia:
 
 Fiz um curso de Programador de Computador com duração de 800 horas em 2011, pelo SENAI (Serviço Nacional de Aprendizagem Industrial).
 
