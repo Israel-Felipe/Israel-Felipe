@@ -12,9 +12,9 @@ Já trabalhei como professor de informática e webdesign (para iniciantes) e tam
 
 Do ano de 2016 até metade de 2020, cursei uma faculdade de Teologia que era em tempo integral.
 
-Após a conclusão, trabalhei por aproxidamente dois anos como pastor na igreja luterana (IECLB - https://www.luteranos.com.br/).
+Após a conclusão, trabalhei por aproximadamente dois anos como pastor na igreja luterana (IECLB - https://www.luteranos.com.br/).
 
-Percebendo que aquele formato de "ministério convencional" não combinava comigo, já sentia a vontade de sair há um bom tempo.
+Percebendo que aquele formato de "ministério convencional" não combinava comigo, decidi sair deste caminho e voltar para a área de tecnologia. Mas mantenho um ministério online ativo, o qual desenvolvo junto com a minha esposa.
 
 ### ✨ Voltando à programação:
 
