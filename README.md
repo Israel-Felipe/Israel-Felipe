@@ -26,14 +26,10 @@ Refletindo muito sobre o assunto, planejando e meditando sobre essa importante d
 
 Hoje sou aluno da Turma 7 da Driven. Estou estudando muito todos os dias e investindo na minha formação como Desenvolvedor de Software Full Stack.
 
-Junto com isso, faço freelancer como Social Media e também editor de vídeos.
+Junto com isso, faço freelancer como Social Media e também editor de vídeos. E, como já disse acima, estou envolvido em um ministério online para jovens cristãos, chamado "Ministério Ser&Vir". Está ainda no começo, mas os planos são grandes! E a formação em dev vai ajudar muito na realização deles.
 
-Em paralelo com tudo isso, estou também desenvolvendo junto com a minha esposa um ministério online para jovens cristãos, o Ministério Ser&Vir. Está bem no começo, mas os planos são grandes - e a formação em dev vai ajudar muito na realização deles!
+### Para concluir:
 
-### 🤔 Para concluir:
+Quero deixar claro aqui que estou muito feliz com a decisão de tomei! A vida está corrida e bem puxada... mas bastante prazerosa e satisfatória.
 
-Quero deixar claro aqui pra você que estou muito feliz com a decisão de tomei! A vida está corrida e bem puxada... mas bastante prazerosa e satisfatória.
-
-Estou ansioso para concluir minha formação na Driven e já começar a trabalhar como Dev Júnior. Mas, ao mesmo tempo, não quero que esse bootcamp tenha fim, pois está incrível!
-
-💬 Se quiser vir falar comigo, é bem fácil de me achar no Instagram: Israel Felipe Teixeira.
+Estou ansioso para já começar a trabalhar como Dev e colocar tudo o que tenho aprendido em prático.
