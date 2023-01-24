@@ -2,34 +2,21 @@
 
 Eu sou Israel Felipe Teixeira 😄
 
-### 🔭 Na área da tecnologia:
+Sempre fui encantado por tecnologia, raciocínio lógico e organização (dividir tudo em categorias, subcategorias, etc). Desde 2011, quando fiz um curso de aprendizagem em Programação no SENAI, minha forma de pensar, decidir e agir mudou, porque a lógica de programação passou a fazer parte da minha vida.
 
-Fiz um curso de Programador de Computador com duração de 800 horas em 2011, pelo SENAI (Serviço Nacional de Aprendizagem Industrial).
+Atualmente embarquei numa formação intensiva no bootcamp da Driven Education para me tornar um Desenvolvedor Web FullStack.
 
-Já trabalhei como professor de informática e webdesign (para iniciantes) e também como suporte técnico em uma empresa de Sistemas de Gestão/Automação.
+Juntamente com este bootcamp, também iniciei um curso intensivo de Inglês na TopWay English School. 
 
-### ⚡ Em outras áreas:
+Durante este período, busquei fontes de renda que não dependessem de um horário fixo, pois meu objetivo principal foi obter o melhor desempenho e aprendizado possível neste bootcamp da Driven.
 
-Do ano de 2016 até metade de 2020, cursei uma faculdade de Teologia que era em tempo integral.
+Como freelancer, meus serviços ficaram concentrados na área de Social Media e Video Maker. Além da experiência adquirida na área, destaco que o meu principal cliente trabalha como consultor empresarial há mais de 20 anos, concentrado na gestão de equipes. Devido a este fato, editando seus vídeos, cursos e todo outro tipo de material, pude aprender muito sobre liderança, mentalidade empreendedora e criativa, comunicação assertiva e trabalho em equipe.
 
-Após a conclusão, trabalhei por aproximadamente dois anos como pastor na igreja luterana (IECLB - https://www.luteranos.com.br/).
+Além destes serviços, também tive a oportunidade de desenvolver Single Page Applications para alguns clientes que vieram me procurar. Também já aceitei serviços relacionados à UI/UX e até mesmo vendi algumas horas como instrutor/orientador (ensinando o cliente a usar uma determinada plataforma).
 
-Percebendo que aquele formato de "ministério convencional" não combinava comigo, decidi sair deste caminho e voltar para a área de tecnologia. Mas mantenho um ministério online ativo, o qual desenvolvo junto com a minha esposa.
+Quanto ao Bootcamp da Driven, posso afirmar que aprendi as principais tecnologias e ferramentas utilizadas atualmente no desenvolvimento de softwares, como: HTML, CSS, JavaScript, React, Node.js, TypeScript, MongoDB, PostgreSQL e Jest. Também tive a oportunidade de desenvolver dezenas de projetos práticos, o que me permitiu colocar em prática os conhecimentos adquiridos e aprimorar minhas habilidades de codificação e soft skills, ao desenvolver aplicações tanto sozinho quanto em grupo, utilizando metodologias ágeis de comunicação e divisão de tarefas.
 
-### ✨ Voltando à programação:
+Fique à vontade para visitar meu perfil no GitHub ou entrar em contato por e-mail!
 
-Como sempre fui apaixonado por tecnologia e lógica, nos últimos meses havia começado a pesquisar sobre esses assuntos, mais na intenção de matar a saudade que tinha de "exercitar o meu cérebro" com isso.
-
-Por consequência, anúncios começaram a aparecer... E dentre eles, um me chamou bastante a atenção: o bootcamp da Driven.
-
-Refletindo muito sobre o assunto, planejando e meditando sobre essa importante decisão, enfim fiz a inscrição e participei do processo seletivo - e passei!
-
-Hoje sou aluno da Turma 7 da Driven. Estou estudando muito todos os dias e investindo na minha formação como Desenvolvedor de Software Full Stack.
-
-Junto com isso, faço freelancer como Social Media e também editor de vídeos. E, como já disse acima, estou envolvido em um ministério online para jovens cristãos, chamado "Ministério Ser&Vir". Está ainda no começo, mas os planos são grandes! E a formação em dev vai ajudar muito na realização deles.
-
-### Para concluir:
-
-Quero deixar claro aqui que estou muito feliz com a decisão de tomei! A vida está corrida e bem puxada... mas bastante prazerosa e satisfatória.
-
-Estou ansioso para já começar a trabalhar como Dev e colocar tudo o que tenho aprendido em prático.
+GitHub: https://github.com/Israel-Felipe
+E-mail: israelfelipet@gmail.com
