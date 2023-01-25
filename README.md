@@ -44,10 +44,10 @@
 ###
 
 
-## github info: 
+## Github Info: 
 
 <details>
-  <summary>Github stats</summary>
+  <summary>Github Stats</summary>
   <img align="left" alt="Israel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israel-felipe&theme=radical&show_icons=true" />
 </details>
 
