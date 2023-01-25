@@ -1,22 +1,42 @@
-### Olá visitante! 👋
+<h1 align="left">Hello, there 👋</h1>
 
-Eu sou Israel Felipe Teixeira 😄
+###
 
-Sempre fui encantado por tecnologia, raciocínio lógico e organização (dividir tudo em categorias, subcategorias, etc). Desde 2011, quando fiz um curso de aprendizagem em Programação no SENAI, minha forma de pensar, decidir e agir mudou, porque a lógica de programação passou a fazer parte da minha vida.
+<p align="left">My name is Israel and I'm a Full Stack Developer from Brazil!</p>
 
-Atualmente embarquei numa formação intensiva no bootcamp da Driven Education para me tornar um Desenvolvedor Web FullStack.
+###
 
-Juntamente com este bootcamp, também iniciei um curso intensivo de Inglês na TopWay English School. 
+<h2 align="left">Some facts about me:</h2>
 
-Durante este período, busquei fontes de renda que não dependessem de um horário fixo, pois meu objetivo principal foi obter o melhor desempenho e aprendizado possível neste bootcamp da Driven.
+###
 
-Como freelancer, meus serviços ficaram concentrados na área de Social Media e Video Maker. Além da experiência adquirida na área, destaco que o meu principal cliente trabalha como consultor empresarial há mais de 20 anos, concentrado na gestão de equipes. Devido a este fato, editando seus vídeos, cursos e todo outro tipo de material, pude aprender muito sobre liderança, mentalidade empreendedora e criativa, comunicação assertiva e trabalho em equipe.
+<p align="left">💻 Developing codes since 2022.<br>💍 I'm currently working on my first big authorial project, which is a SAAS for online measurement of rings (dynamically customized for any store).<br>🎓I graduated and worked as a Theologian (pastor), which made me a very communicative, assertive person with strong leadership characteristics.<br>✌ I like to have my space to work focused, but I also really enjoy meeting new people and talking.<br>📚 I'm studying English and intend to complete the course in December 2023.</p>
 
-Além destes serviços, também tive a oportunidade de desenvolver Single Page Applications para alguns clientes que vieram me procurar. Também já aceitei serviços relacionados à UI/UX e até mesmo vendi algumas horas como instrutor/orientador (ensinando o cliente a usar uma determinada plataforma).
+###
 
-Quanto ao Bootcamp da Driven, posso afirmar que aprendi as principais tecnologias e ferramentas utilizadas atualmente no desenvolvimento de softwares, como: HTML, CSS, JavaScript, React, Node.js, TypeScript, MongoDB, PostgreSQL e Jest. Também tive a oportunidade de desenvolver dezenas de projetos práticos, o que me permitiu colocar em prática os conhecimentos adquiridos e aprimorar minhas habilidades de codificação e soft skills, ao desenvolver aplicações tanto sozinho quanto em grupo, utilizando metodologias ágeis de comunicação e divisão de tarefas.
+<h2 align="left">I code with</h2>
 
-Fique à vontade para visitar meu perfil no GitHub ou entrar em contato por e-mail!
+###
 
-GitHub: https://github.com/Israel-Felipe
-E-mail: israelfelipet@gmail.com
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+</div>
+
+###
+
+## How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelfteixeira/)](https://www.linkedin.com/in/israelfteixeira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:israelfelipet@gmail.com)](mailto:israelfelipet@gmail.com)
