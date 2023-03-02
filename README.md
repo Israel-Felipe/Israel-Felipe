@@ -1,73 +1,93 @@
-<h1 align="left">Hello, there 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+um+desenvolvedor!)](https://git.io/typing-svg)
 
-###
 
-<p align="left">My name is Israel and I'm a Full Stack Developer from Brazil!</p>
+### Bem-vindo(a)! 👋
 
-###
+### Meu nome é Israel Felipe Teixeira,
 
-<h2 align="left">Some facts about me:</h2>
+* Sou desenvolvedor web **Full Stack**! Amo novos desafios e sentir que estou sendo útil para a sociedade 💪
+* Brasileiro (Santa Catarina) 🇧🇷
+* Desenvolvimento de Software FullStack - Bootcamp na Driven Education 👩‍💻
+* Apaixonado por tecnologia, jogos, chocolate e café 👨‍💻🎮🍫☕
+* No momento estudando UX, cursando Inglês e desenvolvendo um SaaS para medição de anéis utilizando um dispositivo móvel 💻💍
 
-###
 
-<p align="left">💻 Developing codes since 2022.<br>💍 I'm currently working on my first big authorial project, which is a SAAS for online measurement of rings (dynamically customized for any store).<br>✌ I like to have my space to work focused, but I also really enjoy meeting new people and talking.<br>📚 I'm studying English and intend to complete the course in December 2023.</p>
+##
 
-###
-
-<h2 align="left">Tech Stack: </h2>
-
-###
+### 🕛 Wakatime
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://uploaddeimagens.com.br/images/004/312/231/full/ex.png?1674667232" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
-  <img src="https://user-images.githubusercontent.com/86934923/213812370-302a9834-635f-4a61-856b-327c14650376.svg" height="40" width="52" alt="prisma logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://uploaddeimagens.com.br/images/004/312/203/full/github.png?1674666543" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"/>
-  
-    
+
+[![wakatime](https://wakatime.com/badge/user/43d412b8-1b55-474d-a584-4c5380aa35f7.svg?style=for-the-badge)](https://wakatime.com/@43d412b8-1b55-474d-a584-4c5380aa35f7)
+
 </div>
 
-###
+### 📊 Meu Github
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-felipe&theme=radical"/>
+</div>
 
-## Github Info: 
+## 
 
-<details>
-  <summary>Github Stats</summary>
-  <img align="left" alt="Israel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israel-felipe&theme=radical&show_icons=true" />
-</details>
+### 🦾 Stack
 
-<details>
-  <summary>Most used languages</summary>
-  <img align="left" alt="Israel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-felipe&theme=radical" />
-</details>
+-   _**Linguagens**_<br>
+    <p>
+    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge"><br>
 
-###
+  -   _**Back-end**_<br>
+    <p>
+    <img src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge"><br>
 
+-   _**Front-end**_<br>
+    <p>
+    <img src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
 
-## How to reach me: 
+-   _**Banco de Dados**_<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelfteixeira/)](https://www.linkedin.com/in/israelfteixeira/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:israelfelipet@gmail.com)](mailto:israelfelipet@gmail.com)
+      <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
+      <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
+
+-   _**Testes**_<br>
+    <p></p>
+    <img src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge"><br>
+
+-   _**Deploy**_<br>
+    <p></p>
+    <img src="https://img.shields.io/static/v1?message=Vercel&logo=Vercel&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Heroku&logo=Heroku&labelColor=430098&color=430098&logoColor=white&label=%20&style=for-the-badge"><br>
+
+-   _**Ferramentas**_<br>
+    <p></p>
+    <img src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Trello&logo=Trello&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Figma&logo=Figma&labelColor=F24E1E&color=F24E1E&logoColor=white&label=%20&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
+    <br>
+
+-   _**Sistema Operacional**_<br>
+    <p></p>
+    <img src="https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20&style=for-the-badge">
+    <br>
+
+##
+
+### 📫 Contato
+
+<div>
+  <a href = "mailto:israelfelipet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/israelfteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+##
+
+> "Whatever you do, work heartily, as for the Lord, and not for men." - Colossians 3:23
