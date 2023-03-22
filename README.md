@@ -9,7 +9,7 @@
 * Brasileiro (Santa Catarina) 🇧🇷
 * Desenvolvimento de Software FullStack - Bootcamp na Driven Education 👩‍💻
 * Apaixonado por tecnologia, jogos, chocolate e café 👨‍💻🎮🍫☕
-* No momento estudando UX, cursando Inglês e desenvolvendo um SaaS para medição de anéis utilizando um dispositivo móvel 💻💍
+* No momento estudando Java, cursando Inglês e desenvolvendo um SaaS para medição de anéis utilizando um dispositivo móvel 💻💍
 
 
 ##
