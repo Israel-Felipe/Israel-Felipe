@@ -7,7 +7,7 @@
 
 * Sou desenvolvedor web **Full Stack**! Amo novos desafios e sentir que estou sendo útil para a sociedade 💪
 * Brasileiro (Santa Catarina) 🇧🇷
-* Desenvolvimento de Software FullStack - Bootcamp na Driven Education 👩‍💻
+* Desenvolvimento de Software FullStack - Bootcamp na Driven Education 👨‍💻
 * Apaixonado por tecnologia, jogos, chocolate e café 👨‍💻🎮🍫☕
 * No momento estudando Java, cursando Inglês e desenvolvendo um SaaS para medição de anéis utilizando um dispositivo móvel 💻💍
 
