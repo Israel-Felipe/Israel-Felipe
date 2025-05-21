@@ -8,7 +8,7 @@
 
 <h3>📍 About Me </h3>
 <ul>
-  <li>Brazilian (Santa Catarina) 🇧🇷</li>
+  <li>Brazilian 🇧🇷</li>
   <li>Full Stack Software Development - Bootcamp at Driven Education 👨‍💻</li>
   <li>Passionate about technology, games, chocolate, and coffee 👨‍💻🎮🍫☕</li>
   <li>Currently in a mentorship, taking intensive English classes every day 📚🗣️</li>
